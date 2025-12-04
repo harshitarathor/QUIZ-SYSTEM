@@ -75,13 +75,16 @@ http://127.0.0.1:5000
 
 ## 🚀 Usage
 
+## 🔥 Features
+
 ### 👤 User Side
-Start quiz
-Submit answers
-View their score immediately
+- Start quiz  
+- Submit answers  
+- View their score immediately  
 
 ### 🛡️ Admin Side
-Login using set admin credentials
-Add quiz questions
-Delete or update questions
-Manage quiz content
+- Login using secure admin credentials  
+- Add quiz questions  
+- Delete or update existing questions  
+- Manage full quiz content  
+
