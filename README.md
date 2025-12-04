@@ -40,3 +40,47 @@ Bootstrap-powered modern UI
 git clone https://github.com/harshitarathor/quiz-system.git
 cd quiz-system
 ```
+2️⃣ Create Virtual Environment
+```bash
+python -m venv venv
+```
+3️⃣ Activate Virtual Environment
+
+Windows:
+```bash
+venv\Scripts\activate
+```
+4️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+5️⃣ Initialize the Database
+
+Run these two files to create tables and admin account:
+```bash
+python create_db.py
+python create_admin.py
+```
+6️⃣ Start the Application
+```bash
+python app.py
+```
+
+Your app will run at:
+```bash
+http://127.0.0.1:5000
+```
+
+## 🚀 Usage
+
+###👤 User Side
+Start quiz
+Submit answers
+View their score immediately
+
+###🛡️ Admin Side
+Login using set admin credentials
+Add quiz questions
+Delete or update questions
+Manage quiz content
