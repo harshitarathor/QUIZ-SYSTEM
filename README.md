@@ -1,8 +1,8 @@
-#🎯 Quiz System Web Application
+# 🎯 Quiz System Web Application
 
 A web-based Quiz System built with Flask (Python) and SQLite, designed for users to take quizzes and for admins to manage questions. Includes a clean UI, admin panel, and result tracking.
 
-###⭐ Features
+## ⭐ Features
 
 User-friendly and responsive quiz interface
 
@@ -16,7 +16,7 @@ SQLite database integration
 
 Bootstrap-powered modern UI
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 ### 🏠 Home Page
 ![Home Page](screenshorts/home.png.png)
 
@@ -32,13 +32,14 @@ Bootstrap-powered modern UI
 ### 🏁 Quiz Result
 ![Quiz Result](screenshorts/quizresult.png.png)
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Backend: Python, Flask
-
 Frontend: HTML, CSS, Bootstrap 5
-
 Database: SQLite
+Other: Werkzeug for admin authentication
+
+
 
 Other: Werkzeug for admin authentication
 
