@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database
+*.db
+
+# VS Code files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other temporary files
+*.egg-info/
