@@ -29,10 +29,11 @@ Bootstrap-powered modern UI
 
 ## 🛠️ Technologies Used
 
-1.Backend: Python, Flask
-2.Frontend: HTML, CSS, Bootstrap 5
-3.Database: SQLite
-4.Other: Werkzeug for admin authentication
+1. **Backend:** Python, Flask  
+2. **Frontend:** HTML, CSS, Bootstrap 5  
+3. **Database:** SQLite  
+4. **Other:** Werkzeug (for admin authentication)  
+
 
 ## ⚙️ Installation
 1️⃣ Clone the Repository
@@ -74,12 +75,12 @@ http://127.0.0.1:5000
 
 ## 🚀 Usage
 
-###👤 User Side
+### 👤 User Side
 Start quiz
 Submit answers
 View their score immediately
 
-###🛡️ Admin Side
+### 🛡️ Admin Side
 Login using set admin credentials
 Add quiz questions
 Delete or update questions
