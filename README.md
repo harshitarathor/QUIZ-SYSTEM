@@ -5,15 +5,10 @@ A web-based Quiz System built with Flask (Python) and SQLite, designed for users
 ## ⭐ Features
 
 User-friendly and responsive quiz interface
-
 Secure admin login
-
 Add, edit, and delete quiz questions
-
 View results with score summary
-
 SQLite database integration
-
 Bootstrap-powered modern UI
 
 ## 🖼️ Screenshots
@@ -34,12 +29,14 @@ Bootstrap-powered modern UI
 
 ## 🛠️ Technologies Used
 
-Backend: Python, Flask
-Frontend: HTML, CSS, Bootstrap 5
-Database: SQLite
-Other: Werkzeug for admin authentication
+1.Backend: Python, Flask
+2.Frontend: HTML, CSS, Bootstrap 5
+3.Database: SQLite
+4.Other: Werkzeug for admin authentication
 
-
-
-Other: Werkzeug for admin authentication
-
+## ⚙️ Installation
+1️⃣ Clone the Repository
+'''python
+git clone https://github.com/harshitarathor/quiz-system.git
+cd quiz-system
+'''
