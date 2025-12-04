@@ -36,7 +36,7 @@ Bootstrap-powered modern UI
 
 ## ⚙️ Installation
 1️⃣ Clone the Repository
-'''python
+```bash
 git clone https://github.com/harshitarathor/quiz-system.git
 cd quiz-system
-'''
+```
